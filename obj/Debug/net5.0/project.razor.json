@@ -107,6 +107,39 @@
         }
       },
       {
+        "HashCode": -645054438,
+        "Kind": "Components.Component",
+        "Name": "MarvelSearch.Pages.Index",
+        "AssemblyName": "MarvelSearch",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MarvelSearch.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 2066795293,
+        "Kind": "Components.Component",
+        "Name": "MarvelSearch.Pages.Index",
+        "AssemblyName": "MarvelSearch",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MarvelSearch.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MarvelSearch.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1746200046,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Shared.SurveyPrompt",
