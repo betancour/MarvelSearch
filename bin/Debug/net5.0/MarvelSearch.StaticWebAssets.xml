@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="D:\HDD\Projects\Dotnet\learning\MarvelSearch\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="D:\HDD\Projects\Dotnet\learning\MarvelSearch\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="/workspaces/MarvelSearch/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/workspaces/MarvelSearch/obj/Debug/net5.0/scopedcss/bundle/" />
 </StaticWebAssets>

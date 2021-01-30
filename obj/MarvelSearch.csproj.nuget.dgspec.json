@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\MarvelSearch.csproj": {}
+    "/workspaces/MarvelSearch/MarvelSearch.csproj": {}
   },
   "projects": {
-    "D:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\MarvelSearch.csproj": {
+    "/workspaces/MarvelSearch/MarvelSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\MarvelSearch.csproj",
+        "projectUniqueName": "/workspaces/MarvelSearch/MarvelSearch.csproj",
         "projectName": "MarvelSearch",
-        "projectPath": "D:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\MarvelSearch.csproj",
-        "packagesPath": "C:\\Users\\betan\\.nuget\\packages\\",
-        "outputPath": "D:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\obj\\",
+        "projectPath": "/workspaces/MarvelSearch/MarvelSearch.csproj",
+        "packagesPath": "/home/vscode/.nuget/packages/",
+        "outputPath": "/workspaces/MarvelSearch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\betan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -65,7 +65,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.1, 5.0.1]"
+              "version": "[5.0.2, 5.0.2]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

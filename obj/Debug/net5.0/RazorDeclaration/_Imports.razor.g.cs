@@ -13,70 +13,70 @@ namespace MarvelSearch
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 1 "/workspaces/MarvelSearch/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 2 "/workspaces/MarvelSearch/_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 3 "/workspaces/MarvelSearch/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 4 "/workspaces/MarvelSearch/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 5 "/workspaces/MarvelSearch/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 6 "/workspaces/MarvelSearch/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 7 "/workspaces/MarvelSearch/_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 8 "/workspaces/MarvelSearch/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 9 "/workspaces/MarvelSearch/_Imports.razor"
 using MarvelSearch;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "D:\HDD\Projects\Dotnet\learning\MarvelSearch\_Imports.razor"
+#line 10 "/workspaces/MarvelSearch/_Imports.razor"
 using MarvelSearch.Shared;
 
 #line default
