@@ -195,11 +195,11 @@
       "mscorlib.dll": "sha256-pfURHvguun0aGHBikgqj1tcIC9yVwDja+omBjH9K0WU=",
       "netstandard.dll": "sha256-zDt6ZaAbtKh1rxzQ7CMtlli234CuRfzZU6Fe9cc2FG4=",
       "System.Private.CoreLib.dll": "sha256-KRDEW\/5qbC0\/9M5IbDGIAM1sKCutWHyq9oLl8WW0c3I=",
-      "MarvelSearch.dll": "sha256-VUB4rjh85Bt\/Uh\/JwjOrNgzggu4f1aC2jWQXxaMgPzQ="
+      "MarvelSearch.dll": "sha256-KgbihY0fzHRk34f7lmqxS7Y8YhLHDV2flxHfNL61JKk="
     },
     "lazyAssembly": null,
     "pdb": {
-      "MarvelSearch.pdb": "sha256-3GHlapN1lTIkH\/AnlyRF\/HsDf6reui\/BcO6Y506Ltzg="
+      "MarvelSearch.pdb": "sha256-wE1cZq85NKfG0sDhRXmW5oawNobGEB1SG18ARDmWFWc="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-\/mwFhTTF4Kca8PG7G6rxaGqCueWH9XbWEIK1Fm8GbFg=",
