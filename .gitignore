@@ -443,3 +443,5 @@ $RECYCLE.BIN/
 
 obj/*
 bin/*
+/obj
+/bin
