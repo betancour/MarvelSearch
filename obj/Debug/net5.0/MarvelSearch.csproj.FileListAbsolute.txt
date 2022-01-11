@@ -1262,3 +1262,4 @@ D:/HDD/Projects/Dotnet/learning/MarvelSearch/obj/Debug/net5.0/MarvelSearch.pdb
 /workspaces/MarvelSearch/obj/Debug/net5.0/scopedcss/projectbundle/MarvelSearch.bundle.scp.css
 /workspaces/MarvelSearch/obj/Debug/net5.0/MarvelSearch.RazorTargetAssemblyInfo.cache
 /workspaces/MarvelSearch/obj/Debug/net5.0/MarvelSearch.csproj.CopyComplete
+/workspaces/MarvelSearch/obj/Debug/net5.0/MarvelSearch.csproj.AssemblyReference.cache
