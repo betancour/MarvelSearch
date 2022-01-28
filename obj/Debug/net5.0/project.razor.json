@@ -1,5 +1,5 @@
 {
-  "FilePath": "/workspaces/MarvelSearch/MarvelSearch.csproj",
+  "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\MarvelSearch.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "5.0",
@@ -8,7 +8,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1120149152,
+        "HashCode": 897799221,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.App",
         "AssemblyName": "MarvelSearch",
@@ -24,7 +24,7 @@
         }
       },
       {
-        "HashCode": -1906636292,
+        "HashCode": -682976804,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.App",
         "AssemblyName": "MarvelSearch",
@@ -41,7 +41,7 @@
         }
       },
       {
-        "HashCode": 1943454454,
+        "HashCode": -82132457,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Pages.Counter",
         "AssemblyName": "MarvelSearch",
@@ -57,7 +57,7 @@
         }
       },
       {
-        "HashCode": -175675976,
+        "HashCode": 1213857837,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Pages.Counter",
         "AssemblyName": "MarvelSearch",
@@ -74,7 +74,7 @@
         }
       },
       {
-        "HashCode": 1429647908,
+        "HashCode": 1396301143,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Pages.FetchData",
         "AssemblyName": "MarvelSearch",
@@ -90,7 +90,7 @@
         }
       },
       {
-        "HashCode": -1233403915,
+        "HashCode": -574850660,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Pages.FetchData",
         "AssemblyName": "MarvelSearch",
@@ -107,7 +107,7 @@
         }
       },
       {
-        "HashCode": 730833046,
+        "HashCode": 1154224918,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Pages.Index",
         "AssemblyName": "MarvelSearch",
@@ -123,7 +123,7 @@
         }
       },
       {
-        "HashCode": 1829352388,
+        "HashCode": 1703335137,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Pages.Index",
         "AssemblyName": "MarvelSearch",
@@ -140,7 +140,7 @@
         }
       },
       {
-        "HashCode": 158584459,
+        "HashCode": -1927676771,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Shared.SurveyPrompt",
         "AssemblyName": "MarvelSearch",
@@ -166,7 +166,7 @@
         }
       },
       {
-        "HashCode": -494111302,
+        "HashCode": 1216550838,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Shared.SurveyPrompt",
         "AssemblyName": "MarvelSearch",
@@ -193,7 +193,7 @@
         }
       },
       {
-        "HashCode": -1874637139,
+        "HashCode": 490022622,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Shared.MainLayout",
         "AssemblyName": "MarvelSearch",
@@ -208,6 +208,7 @@
             "Kind": "Components.Component",
             "Name": "Body",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Body",
               "Components.ChildContent": "True"
@@ -220,7 +221,7 @@
         }
       },
       {
-        "HashCode": -26312172,
+        "HashCode": -1574582993,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Shared.MainLayout",
         "AssemblyName": "MarvelSearch",
@@ -235,6 +236,7 @@
             "Kind": "Components.Component",
             "Name": "Body",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Body",
               "Components.ChildContent": "True"
@@ -248,10 +250,11 @@
         }
       },
       {
-        "HashCode": 275594490,
+        "HashCode": 843641845,
         "Kind": "Components.ChildContent",
         "Name": "MarvelSearch.Shared.MainLayout.Body",
         "AssemblyName": "MarvelSearch",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -266,10 +269,11 @@
         }
       },
       {
-        "HashCode": 972208089,
+        "HashCode": 1260140383,
         "Kind": "Components.ChildContent",
         "Name": "MarvelSearch.Shared.MainLayout.Body",
         "AssemblyName": "MarvelSearch",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -285,7 +289,7 @@
         }
       },
       {
-        "HashCode": -537756519,
+        "HashCode": 411864447,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Shared.NavMenu",
         "AssemblyName": "MarvelSearch",
@@ -301,7 +305,7 @@
         }
       },
       {
-        "HashCode": 641239627,
+        "HashCode": -190169725,
         "Kind": "Components.Component",
         "Name": "MarvelSearch.Shared.NavMenu",
         "AssemblyName": "MarvelSearch",
@@ -318,10 +322,11 @@
         }
       },
       {
-        "HashCode": 1083984649,
+        "HashCode": -876609937,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            A component that provides a cascading value to all descendant components.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -336,13 +341,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.CascadingValue<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            The content to which the value should be provided.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -352,6 +359,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            The value to be provided.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -361,6 +369,7 @@
             "Kind": "Components.Component",
             "Name": "Name",
             "TypeName": "System.String",
+            "Documentation": "\n             <summary>\n             Optionally gives a name to the provided value. Descendant components\n             will be able to receive the value by specifying this name.\n            \n             If no name is specified, then descendant components will receive the\n             value based the type of value they are requesting.\n             </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Name"
             }
@@ -369,6 +378,7 @@
             "Kind": "Components.Component",
             "Name": "IsFixed",
             "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            If true, indicates that <see cref=\"P:Microsoft.AspNetCore.Components.CascadingValue`1.Value\" /> will not change. This is a\n            performance optimization that allows the framework to skip setting up\n            change notifications. Set this flag only if you will not change\n            <see cref=\"P:Microsoft.AspNetCore.Components.CascadingValue`1.Value\" /> during the component's lifetime.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "IsFixed"
             }
@@ -381,10 +391,11 @@
         }
       },
       {
-        "HashCode": -244010969,
+        "HashCode": -325519407,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            A component that provides a cascading value to all descendant components.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -399,13 +410,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.CascadingValue<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            The content to which the value should be provided.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -415,6 +428,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            The value to be provided.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -424,6 +438,7 @@
             "Kind": "Components.Component",
             "Name": "Name",
             "TypeName": "System.String",
+            "Documentation": "\n             <summary>\n             Optionally gives a name to the provided value. Descendant components\n             will be able to receive the value by specifying this name.\n            \n             If no name is specified, then descendant components will receive the\n             value based the type of value they are requesting.\n             </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Name"
             }
@@ -432,6 +447,7 @@
             "Kind": "Components.Component",
             "Name": "IsFixed",
             "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            If true, indicates that <see cref=\"P:Microsoft.AspNetCore.Components.CascadingValue`1.Value\" /> will not change. This is a\n            performance optimization that allows the framework to skip setting up\n            change notifications. Set this flag only if you will not change\n            <see cref=\"P:Microsoft.AspNetCore.Components.CascadingValue`1.Value\" /> during the component's lifetime.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "IsFixed"
             }
@@ -445,10 +461,11 @@
         }
       },
       {
-        "HashCode": 1486394293,
+        "HashCode": 909141050,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            The content to which the value should be provided.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -463,10 +480,11 @@
         }
       },
       {
-        "HashCode": 776971714,
+        "HashCode": -700243708,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            The content to which the value should be provided.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -482,10 +500,11 @@
         }
       },
       {
-        "HashCode": -579141774,
+        "HashCode": 536679193,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Displays the specified content inside the specified layout and any further\n            nested layouts.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -497,6 +516,7 @@
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the content to display.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -506,6 +526,7 @@
             "Kind": "Components.Component",
             "Name": "Layout",
             "TypeName": "System.Type",
+            "Documentation": "\n            <summary>\n            Gets or sets the type of the layout in which to display the content.\n            The type must implement <see cref=\"T:Microsoft.AspNetCore.Components.IComponent\" /> and accept a parameter named <see cref=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Layout"
             }
@@ -517,10 +538,11 @@
         }
       },
       {
-        "HashCode": 597408276,
+        "HashCode": -2015153527,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Displays the specified content inside the specified layout and any further\n            nested layouts.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -532,6 +554,7 @@
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the content to display.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -541,6 +564,7 @@
             "Kind": "Components.Component",
             "Name": "Layout",
             "TypeName": "System.Type",
+            "Documentation": "\n            <summary>\n            Gets or sets the type of the layout in which to display the content.\n            The type must implement <see cref=\"T:Microsoft.AspNetCore.Components.IComponent\" /> and accept a parameter named <see cref=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Layout"
             }
@@ -553,10 +577,11 @@
         }
       },
       {
-        "HashCode": 26274964,
+        "HashCode": 1879651112,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Gets or sets the content to display.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -571,10 +596,11 @@
         }
       },
       {
-        "HashCode": 1695516759,
+        "HashCode": 1403492109,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Gets or sets the content to display.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -590,10 +616,11 @@
         }
       },
       {
-        "HashCode": 673556283,
+        "HashCode": -1517514567,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Displays the specified page component, rendering it inside its layout\n            and any further nested layouts.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -605,6 +632,7 @@
             "Kind": "Components.Component",
             "Name": "RouteData",
             "TypeName": "Microsoft.AspNetCore.Components.RouteData",
+            "Documentation": "\n            <summary>\n            Gets or sets the route data. This determines the page that will be\n            displayed and the parameter values that will be supplied to the page.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "RouteData"
             }
@@ -613,6 +641,7 @@
             "Kind": "Components.Component",
             "Name": "DefaultLayout",
             "TypeName": "System.Type",
+            "Documentation": "\n            <summary>\n            Gets or sets the type of a layout to be used if the page does not\n            declare any layout. If specified, the type must implement <see cref=\"T:Microsoft.AspNetCore.Components.IComponent\" />\n            and accept a parameter named <see cref=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DefaultLayout"
             }
@@ -624,10 +653,11 @@
         }
       },
       {
-        "HashCode": 1920065646,
+        "HashCode": 617228379,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Displays the specified page component, rendering it inside its layout\n            and any further nested layouts.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -639,6 +669,7 @@
             "Kind": "Components.Component",
             "Name": "RouteData",
             "TypeName": "Microsoft.AspNetCore.Components.RouteData",
+            "Documentation": "\n            <summary>\n            Gets or sets the route data. This determines the page that will be\n            displayed and the parameter values that will be supplied to the page.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "RouteData"
             }
@@ -647,6 +678,7 @@
             "Kind": "Components.Component",
             "Name": "DefaultLayout",
             "TypeName": "System.Type",
+            "Documentation": "\n            <summary>\n            Gets or sets the type of a layout to be used if the page does not\n            declare any layout. If specified, the type must implement <see cref=\"T:Microsoft.AspNetCore.Components.IComponent\" />\n            and accept a parameter named <see cref=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DefaultLayout"
             }
@@ -659,10 +691,11 @@
         }
       },
       {
-        "HashCode": -478020175,
+        "HashCode": -1905134642,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            A component that supplies route data corresponding to the current navigation state.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -674,6 +707,7 @@
             "Kind": "Components.Component",
             "Name": "AppAssembly",
             "TypeName": "System.Reflection.Assembly",
+            "Documentation": "\n            <summary>\n            Gets or sets the assembly that should be searched for components matching the URI.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AppAssembly"
             }
@@ -682,6 +716,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAssemblies",
             "TypeName": "System.Collections.Generic.IEnumerable<System.Reflection.Assembly>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional assemblies that should be searched for components\n            that can match URIs.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAssemblies"
             }
@@ -690,6 +725,7 @@
             "Kind": "Components.Component",
             "Name": "NotFound",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the content to display when no match is found for the requested route.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "NotFound",
               "Components.ChildContent": "True"
@@ -699,6 +735,7 @@
             "Kind": "Components.Component",
             "Name": "Found",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.RouteData>",
+            "Documentation": "\n            <summary>\n            Gets or sets the content to display when a match is found for the requested route.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Found",
               "Components.ChildContent": "True"
@@ -708,6 +745,7 @@
             "Kind": "Components.Component",
             "Name": "Navigating",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Get or sets the content to display when asynchronous navigation is in progress.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Navigating",
               "Components.ChildContent": "True"
@@ -717,6 +755,7 @@
             "Kind": "Components.Component",
             "Name": "OnNavigateAsync",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Routing.NavigationContext>",
+            "Documentation": "\n            <summary>\n            Gets or sets a handler that should be called before navigating to a new page.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnNavigateAsync",
               "Components.EventCallback": "True"
@@ -726,6 +765,7 @@
             "Kind": "Components.Component",
             "Name": "PreferExactMatches",
             "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Gets or sets a flag to indicate whether route matching should prefer exact matches\n            over wildcards.\n            </summary>\n            <remarks>\n            <para>\n            Important: all applications should explicitly set this to true. The option to set it to false\n            (or leave unset, which defaults to false) is only provided for backward compatibility.\n            In .NET 6, this option will be removed and the router will always prefer exact matches.\n            </para>\n            </remarks>\n        ",
             "Metadata": {
               "Common.PropertyName": "PreferExactMatches"
             }
@@ -747,10 +787,11 @@
         }
       },
       {
-        "HashCode": -84888809,
+        "HashCode": 218658552,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            A component that supplies route data corresponding to the current navigation state.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -762,6 +803,7 @@
             "Kind": "Components.Component",
             "Name": "AppAssembly",
             "TypeName": "System.Reflection.Assembly",
+            "Documentation": "\n            <summary>\n            Gets or sets the assembly that should be searched for components matching the URI.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AppAssembly"
             }
@@ -770,6 +812,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAssemblies",
             "TypeName": "System.Collections.Generic.IEnumerable<System.Reflection.Assembly>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional assemblies that should be searched for components\n            that can match URIs.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAssemblies"
             }
@@ -778,6 +821,7 @@
             "Kind": "Components.Component",
             "Name": "NotFound",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the content to display when no match is found for the requested route.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "NotFound",
               "Components.ChildContent": "True"
@@ -787,6 +831,7 @@
             "Kind": "Components.Component",
             "Name": "Found",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.RouteData>",
+            "Documentation": "\n            <summary>\n            Gets or sets the content to display when a match is found for the requested route.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Found",
               "Components.ChildContent": "True"
@@ -796,6 +841,7 @@
             "Kind": "Components.Component",
             "Name": "Navigating",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Get or sets the content to display when asynchronous navigation is in progress.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Navigating",
               "Components.ChildContent": "True"
@@ -805,6 +851,7 @@
             "Kind": "Components.Component",
             "Name": "OnNavigateAsync",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Routing.NavigationContext>",
+            "Documentation": "\n            <summary>\n            Gets or sets a handler that should be called before navigating to a new page.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnNavigateAsync",
               "Components.EventCallback": "True"
@@ -814,6 +861,7 @@
             "Kind": "Components.Component",
             "Name": "PreferExactMatches",
             "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Gets or sets a flag to indicate whether route matching should prefer exact matches\n            over wildcards.\n            </summary>\n            <remarks>\n            <para>\n            Important: all applications should explicitly set this to true. The option to set it to false\n            (or leave unset, which defaults to false) is only provided for backward compatibility.\n            In .NET 6, this option will be removed and the router will always prefer exact matches.\n            </para>\n            </remarks>\n        ",
             "Metadata": {
               "Common.PropertyName": "PreferExactMatches"
             }
@@ -836,10 +884,11 @@
         }
       },
       {
-        "HashCode": -1882556398,
+        "HashCode": -806325141,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Gets or sets the content to display when no match is found for the requested route.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -854,10 +903,11 @@
         }
       },
       {
-        "HashCode": -1787381022,
+        "HashCode": 1984749400,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Gets or sets the content to display when no match is found for the requested route.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -873,10 +923,11 @@
         }
       },
       {
-        "HashCode": -226741895,
+        "HashCode": 477010062,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Gets or sets the content to display when a match is found for the requested route.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -903,10 +954,11 @@
         }
       },
       {
-        "HashCode": -845995650,
+        "HashCode": 1834393210,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Gets or sets the content to display when a match is found for the requested route.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -934,10 +986,11 @@
         }
       },
       {
-        "HashCode": -1100925794,
+        "HashCode": -1895447004,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Get or sets the content to display when asynchronous navigation is in progress.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -952,10 +1005,11 @@
         }
       },
       {
-        "HashCode": 1326402413,
+        "HashCode": -2136429748,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "\n            <summary>\n            Get or sets the content to display when asynchronous navigation is in progress.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -971,10 +1025,11 @@
         }
       },
       {
-        "HashCode": 491113856,
+        "HashCode": -1570376398,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
+        "Documentation": "\n            <summary>\n            Adds Data Annotations validation support to an <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditContext\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -987,10 +1042,11 @@
         }
       },
       {
-        "HashCode": -1630088230,
+        "HashCode": -1317134907,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
+        "Documentation": "\n            <summary>\n            Adds Data Annotations validation support to an <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditContext\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1004,10 +1060,11 @@
         }
       },
       {
-        "HashCode": 1260163110,
+        "HashCode": 489388353,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Renders a form element that cascades an <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.EditContext\" /> to descendants.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1019,6 +1076,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created <c>form</c> element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1027,6 +1085,7 @@
             "Kind": "Components.Component",
             "Name": "EditContext",
             "TypeName": "Microsoft.AspNetCore.Components.Forms.EditContext",
+            "Documentation": "\n            <summary>\n            Supplies the edit context explicitly. If using this parameter, do not\n            also supply <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.Model\" />, since the model value will be taken\n            from the <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditContext.Model\" /> property.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "EditContext"
             }
@@ -1035,6 +1094,7 @@
             "Kind": "Components.Component",
             "Name": "Model",
             "TypeName": "System.Object",
+            "Documentation": "\n            <summary>\n            Specifies the top-level model object for the form. An edit context will\n            be constructed for this model. If using this parameter, do not also supply\n            a value for <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.EditContext\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Model"
             }
@@ -1043,6 +1103,7 @@
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Forms.EditContext>",
+            "Documentation": "\n            <summary>\n            Specifies the content to be rendered inside this <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditForm\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -1052,6 +1113,7 @@
             "Kind": "Components.Component",
             "Name": "OnSubmit",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>",
+            "Documentation": "\n             <summary>\n             A callback that will be invoked when the form is submitted.\n            \n             If using this parameter, you are responsible for triggering any validation\n             manually, e.g., by calling <see cref=\"M:Microsoft.AspNetCore.Components.Forms.EditContext.Validate\" />.\n             </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnSubmit",
               "Components.EventCallback": "True"
@@ -1061,6 +1123,7 @@
             "Kind": "Components.Component",
             "Name": "OnValidSubmit",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>",
+            "Documentation": "\n            <summary>\n            A callback that will be invoked when the form is submitted and the\n            <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.EditContext\" /> is determined to be valid.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnValidSubmit",
               "Components.EventCallback": "True"
@@ -1070,6 +1133,7 @@
             "Kind": "Components.Component",
             "Name": "OnInvalidSubmit",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>",
+            "Documentation": "\n            <summary>\n            A callback that will be invoked when the form is submitted and the\n            <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.EditContext\" /> is determined to be invalid.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnInvalidSubmit",
               "Components.EventCallback": "True"
@@ -1092,10 +1156,11 @@
         }
       },
       {
-        "HashCode": -1517478861,
+        "HashCode": 2060682075,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Renders a form element that cascades an <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.EditContext\" /> to descendants.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1107,6 +1172,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created <c>form</c> element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1115,6 +1181,7 @@
             "Kind": "Components.Component",
             "Name": "EditContext",
             "TypeName": "Microsoft.AspNetCore.Components.Forms.EditContext",
+            "Documentation": "\n            <summary>\n            Supplies the edit context explicitly. If using this parameter, do not\n            also supply <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.Model\" />, since the model value will be taken\n            from the <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditContext.Model\" /> property.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "EditContext"
             }
@@ -1123,6 +1190,7 @@
             "Kind": "Components.Component",
             "Name": "Model",
             "TypeName": "System.Object",
+            "Documentation": "\n            <summary>\n            Specifies the top-level model object for the form. An edit context will\n            be constructed for this model. If using this parameter, do not also supply\n            a value for <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.EditContext\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Model"
             }
@@ -1131,6 +1199,7 @@
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Forms.EditContext>",
+            "Documentation": "\n            <summary>\n            Specifies the content to be rendered inside this <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditForm\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -1140,6 +1209,7 @@
             "Kind": "Components.Component",
             "Name": "OnSubmit",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>",
+            "Documentation": "\n             <summary>\n             A callback that will be invoked when the form is submitted.\n            \n             If using this parameter, you are responsible for triggering any validation\n             manually, e.g., by calling <see cref=\"M:Microsoft.AspNetCore.Components.Forms.EditContext.Validate\" />.\n             </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnSubmit",
               "Components.EventCallback": "True"
@@ -1149,6 +1219,7 @@
             "Kind": "Components.Component",
             "Name": "OnValidSubmit",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>",
+            "Documentation": "\n            <summary>\n            A callback that will be invoked when the form is submitted and the\n            <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.EditContext\" /> is determined to be valid.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnValidSubmit",
               "Components.EventCallback": "True"
@@ -1158,6 +1229,7 @@
             "Kind": "Components.Component",
             "Name": "OnInvalidSubmit",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>",
+            "Documentation": "\n            <summary>\n            A callback that will be invoked when the form is submitted and the\n            <see cref=\"P:Microsoft.AspNetCore.Components.Forms.EditForm.EditContext\" /> is determined to be invalid.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnInvalidSubmit",
               "Components.EventCallback": "True"
@@ -1181,10 +1253,11 @@
         }
       },
       {
-        "HashCode": -1824271145,
+        "HashCode": -1425395868,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Specifies the content to be rendered inside this <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditForm\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1211,10 +1284,11 @@
         }
       },
       {
-        "HashCode": 239532671,
+        "HashCode": 784153619,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Specifies the content to be rendered inside this <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditForm\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1242,10 +1316,11 @@
         }
       },
       {
-        "HashCode": 387549210,
+        "HashCode": 164362640,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component for editing <see cref=\"T:System.Boolean\" /> values.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1257,6 +1332,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1265,6 +1341,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value"
             }
@@ -1273,6 +1350,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True"
@@ -1282,6 +1360,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<System.Boolean>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression"
             }
@@ -1290,6 +1369,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -1301,10 +1381,11 @@
         }
       },
       {
-        "HashCode": -349706587,
+        "HashCode": -652630124,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component for editing <see cref=\"T:System.Boolean\" /> values.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1316,6 +1397,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1324,6 +1406,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "System.Boolean",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value"
             }
@@ -1332,6 +1415,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True"
@@ -1341,6 +1425,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<System.Boolean>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression"
             }
@@ -1349,6 +1434,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -1361,10 +1447,11 @@
         }
       },
       {
-        "HashCode": -1779074060,
+        "HashCode": -1802237686,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component for editing date values.\n            Supported types are <see cref=\"T:System.DateTime\" /> and <see cref=\"T:System.DateTimeOffset\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1379,13 +1466,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputDate<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ParsingErrorMessage",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the error message used when displaying an a parsing error.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ParsingErrorMessage"
             }
@@ -1394,6 +1483,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1402,6 +1492,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -1411,6 +1502,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TValue>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True",
@@ -1421,6 +1513,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression",
               "Components.GenericTyped": "True"
@@ -1430,6 +1523,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -1442,10 +1536,11 @@
         }
       },
       {
-        "HashCode": 703391708,
+        "HashCode": -475770928,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component for editing date values.\n            Supported types are <see cref=\"T:System.DateTime\" /> and <see cref=\"T:System.DateTimeOffset\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1460,13 +1555,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputDate<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ParsingErrorMessage",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the error message used when displaying an a parsing error.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ParsingErrorMessage"
             }
@@ -1475,6 +1572,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1483,6 +1581,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -1492,6 +1591,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TValue>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True",
@@ -1502,6 +1602,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression",
               "Components.GenericTyped": "True"
@@ -1511,6 +1612,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -1524,10 +1626,11 @@
         }
       },
       {
-        "HashCode": 1810190365,
+        "HashCode": -1025022412,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            A component that wraps the HTML file input element and supplies a <see cref=\"T:System.IO.Stream\" /> for each file's contents.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1539,6 +1642,7 @@
             "Kind": "Components.Component",
             "Name": "OnChange",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.InputFileChangeEventArgs>",
+            "Documentation": "\n            <summary>\n            Gets or sets the event callback that will be invoked when the collection of selected files changes.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnChange",
               "Components.EventCallback": "True"
@@ -1548,6 +1652,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the input element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1559,10 +1664,11 @@
         }
       },
       {
-        "HashCode": -1405489393,
+        "HashCode": 2147178435,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            A component that wraps the HTML file input element and supplies a <see cref=\"T:System.IO.Stream\" /> for each file's contents.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1574,6 +1680,7 @@
             "Kind": "Components.Component",
             "Name": "OnChange",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.InputFileChangeEventArgs>",
+            "Documentation": "\n            <summary>\n            Gets or sets the event callback that will be invoked when the collection of selected files changes.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OnChange",
               "Components.EventCallback": "True"
@@ -1583,6 +1690,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the input element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1595,10 +1703,11 @@
         }
       },
       {
-        "HashCode": -744102860,
+        "HashCode": 1699035523,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component for editing numeric values.\n            Supported numeric types are <see cref=\"T:System.Int32\" />, <see cref=\"T:System.Int64\" />, <see cref=\"T:System.Int16\" />, <see cref=\"T:System.Single\" />, <see cref=\"T:System.Double\" />, <see cref=\"T:System.Decimal\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1613,13 +1722,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputNumber<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ParsingErrorMessage",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the error message used when displaying an a parsing error.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ParsingErrorMessage"
             }
@@ -1628,6 +1739,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1636,6 +1748,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -1645,6 +1758,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TValue>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True",
@@ -1655,6 +1769,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression",
               "Components.GenericTyped": "True"
@@ -1664,6 +1779,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -1676,10 +1792,11 @@
         }
       },
       {
-        "HashCode": 918168820,
+        "HashCode": 1632351895,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component for editing numeric values.\n            Supported numeric types are <see cref=\"T:System.Int32\" />, <see cref=\"T:System.Int64\" />, <see cref=\"T:System.Int16\" />, <see cref=\"T:System.Single\" />, <see cref=\"T:System.Double\" />, <see cref=\"T:System.Decimal\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1694,13 +1811,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputNumber<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ParsingErrorMessage",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the error message used when displaying an a parsing error.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ParsingErrorMessage"
             }
@@ -1709,6 +1828,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1717,6 +1837,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -1726,6 +1847,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TValue>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True",
@@ -1736,6 +1858,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression",
               "Components.GenericTyped": "True"
@@ -1745,6 +1868,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -1758,10 +1882,11 @@
         }
       },
       {
-        "HashCode": 1476311842,
+        "HashCode": -664962614,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component used for selecting a value from a group of choices.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1776,13 +1901,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputRadio<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the input element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1791,6 +1918,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of this input.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -1800,6 +1928,7 @@
             "Kind": "Components.Component",
             "Name": "Name",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the name of the parent input radio group.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Name"
             }
@@ -1812,10 +1941,11 @@
         }
       },
       {
-        "HashCode": -1966527289,
+        "HashCode": 1819083398,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component used for selecting a value from a group of choices.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1830,13 +1960,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputRadio<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the input element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1845,6 +1977,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of this input.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -1854,6 +1987,7 @@
             "Kind": "Components.Component",
             "Name": "Name",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the name of the parent input radio group.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Name"
             }
@@ -1867,10 +2001,11 @@
         }
       },
       {
-        "HashCode": 870221013,
+        "HashCode": 760802062,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Groups child <see cref=\"T:Microsoft.AspNetCore.Components.Forms.InputRadio`1\" /> components.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1885,13 +2020,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the child content to be rendering inside the <see cref=\"T:Microsoft.AspNetCore.Components.Forms.InputRadioGroup`1\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -1901,6 +2038,7 @@
             "Kind": "Components.Component",
             "Name": "Name",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the name of the group.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Name"
             }
@@ -1909,6 +2047,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -1917,6 +2056,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -1926,6 +2066,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TValue>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True",
@@ -1936,6 +2077,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression",
               "Components.GenericTyped": "True"
@@ -1945,6 +2087,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -1957,10 +2100,11 @@
         }
       },
       {
-        "HashCode": -801909346,
+        "HashCode": 1445657756,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Groups child <see cref=\"T:Microsoft.AspNetCore.Components.Forms.InputRadio`1\" /> components.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -1975,13 +2119,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the child content to be rendering inside the <see cref=\"T:Microsoft.AspNetCore.Components.Forms.InputRadioGroup`1\" />.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -1991,6 +2137,7 @@
             "Kind": "Components.Component",
             "Name": "Name",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the name of the group.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Name"
             }
@@ -1999,6 +2146,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2007,6 +2155,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -2016,6 +2165,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TValue>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True",
@@ -2026,6 +2176,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression",
               "Components.GenericTyped": "True"
@@ -2035,6 +2186,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -2048,10 +2200,11 @@
         }
       },
       {
-        "HashCode": 147007290,
+        "HashCode": -5688087,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the child content to be rendering inside the <see cref=\"T:Microsoft.AspNetCore.Components.Forms.InputRadioGroup`1\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2066,10 +2219,11 @@
         }
       },
       {
-        "HashCode": 1151436396,
+        "HashCode": -647344956,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the child content to be rendering inside the <see cref=\"T:Microsoft.AspNetCore.Components.Forms.InputRadioGroup`1\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2085,10 +2239,11 @@
         }
       },
       {
-        "HashCode": 1503059700,
+        "HashCode": 1743007156,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            A dropdown selection component.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2103,13 +2258,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputSelect<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the child content to be rendering inside the select element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -2119,6 +2276,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2127,6 +2285,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -2136,6 +2295,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TValue>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True",
@@ -2146,6 +2306,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression",
               "Components.GenericTyped": "True"
@@ -2155,6 +2316,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -2167,10 +2329,11 @@
         }
       },
       {
-        "HashCode": 1606072859,
+        "HashCode": -2145449461,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            A dropdown selection component.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2185,13 +2348,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.InputSelect<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the child content to be rendering inside the select element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -2201,6 +2366,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2209,6 +2375,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "TValue",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value",
               "Components.GenericTyped": "True"
@@ -2218,6 +2385,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TValue>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True",
@@ -2228,6 +2396,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression",
               "Components.GenericTyped": "True"
@@ -2237,6 +2406,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -2250,10 +2420,11 @@
         }
       },
       {
-        "HashCode": -960346322,
+        "HashCode": -1130157769,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the child content to be rendering inside the select element.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2268,10 +2439,11 @@
         }
       },
       {
-        "HashCode": 1384089842,
+        "HashCode": -662414230,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the child content to be rendering inside the select element.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2287,10 +2459,11 @@
         }
       },
       {
-        "HashCode": -657099501,
+        "HashCode": 450500785,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component for editing <see cref=\"T:System.String\" /> values.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2302,6 +2475,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2310,6 +2484,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value"
             }
@@ -2318,6 +2493,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True"
@@ -2327,6 +2503,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<System.String>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression"
             }
@@ -2335,6 +2512,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -2346,10 +2524,11 @@
         }
       },
       {
-        "HashCode": -1195206283,
+        "HashCode": 1393980726,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            An input component for editing <see cref=\"T:System.String\" /> values.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2361,6 +2540,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2369,6 +2549,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value"
             }
@@ -2377,6 +2558,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True"
@@ -2386,6 +2568,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<System.String>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression"
             }
@@ -2394,6 +2577,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -2406,10 +2590,11 @@
         }
       },
       {
-        "HashCode": -2142968317,
+        "HashCode": 1805793551,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            A multiline input component for editing <see cref=\"T:System.String\" /> values.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2421,6 +2606,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2429,6 +2615,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value"
             }
@@ -2437,6 +2624,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True"
@@ -2446,6 +2634,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<System.String>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression"
             }
@@ -2454,6 +2643,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -2465,10 +2655,11 @@
         }
       },
       {
-        "HashCode": 1463769629,
+        "HashCode": 942383338,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            A multiline input component for editing <see cref=\"T:System.String\" /> values.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2480,6 +2671,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2488,6 +2680,7 @@
             "Kind": "Components.Component",
             "Name": "Value",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the value of the input. This should be used with two-way binding.\n            </summary>\n            <example>\n            @bind-Value=\"model.PropertyName\"\n            </example>\n        ",
             "Metadata": {
               "Common.PropertyName": "Value"
             }
@@ -2496,6 +2689,7 @@
             "Kind": "Components.Component",
             "Name": "ValueChanged",
             "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a callback that updates the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueChanged",
               "Components.EventCallback": "True"
@@ -2505,6 +2699,7 @@
             "Kind": "Components.Component",
             "Name": "ValueExpression",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<System.String>>",
+            "Documentation": "\n            <summary>\n            Gets or sets an expression that identifies the bound value.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValueExpression"
             }
@@ -2513,6 +2708,7 @@
             "Kind": "Components.Component",
             "Name": "DisplayName",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the display name for this field.\n            <para>This value is used when generating error messages when the input value fails to parse correctly.</para>\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "DisplayName"
             }
@@ -2525,10 +2721,11 @@
         }
       },
       {
-        "HashCode": -125304535,
+        "HashCode": 1397561445,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Displays a list of validation messages for a specified field within a cascaded <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditContext\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2543,13 +2740,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created <c>div</c> element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2558,6 +2757,7 @@
             "Kind": "Components.Component",
             "Name": "For",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Specifies the field for which validation messages should be displayed.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "For",
               "Components.GenericTyped": "True"
@@ -2571,10 +2771,11 @@
         }
       },
       {
-        "HashCode": -214764182,
+        "HashCode": -183000960,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Displays a list of validation messages for a specified field within a cascaded <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditContext\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2589,13 +2790,15 @@
             "Documentation": "Specifies the type of the type parameter TValue for the Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue> component.",
             "Metadata": {
               "Common.PropertyName": "TValue",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created <c>div</c> element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2604,6 +2807,7 @@
             "Kind": "Components.Component",
             "Name": "For",
             "TypeName": "System.Linq.Expressions.Expression<System.Func<TValue>>",
+            "Documentation": "\n            <summary>\n            Specifies the field for which validation messages should be displayed.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "For",
               "Components.GenericTyped": "True"
@@ -2618,10 +2822,11 @@
         }
       },
       {
-        "HashCode": 911613674,
+        "HashCode": 582290182,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Displays a list of validation messages from a cascaded <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditContext\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2633,6 +2838,7 @@
             "Kind": "Components.Component",
             "Name": "Model",
             "TypeName": "System.Object",
+            "Documentation": "\n            <summary>\n            Gets or sets the model to produce the list of validation messages for.\n            When specified, this lists all errors that are associated with the model instance.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Model"
             }
@@ -2641,6 +2847,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created <c>ul</c> element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2652,10 +2859,11 @@
         }
       },
       {
-        "HashCode": -1903306744,
+        "HashCode": 166280902,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Displays a list of validation messages from a cascaded <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditContext\" />.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2667,6 +2875,7 @@
             "Kind": "Components.Component",
             "Name": "Model",
             "TypeName": "System.Object",
+            "Documentation": "\n            <summary>\n            Gets or sets the model to produce the list of validation messages for.\n            When specified, this lists all errors that are associated with the model instance.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Model"
             }
@@ -2675,6 +2884,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created <c>ul</c> element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2687,10 +2897,11 @@
         }
       },
       {
-        "HashCode": -727150181,
+        "HashCode": -113796794,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            A component that renders an anchor tag, automatically toggling its 'active'\n            class based on whether its 'href' matches the current URI.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2702,6 +2913,7 @@
             "Kind": "Components.Component",
             "Name": "ActiveClass",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the CSS class name applied to the NavLink when the\n            current route matches the NavLink href.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ActiveClass"
             }
@@ -2710,6 +2922,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be added to the generated\n            <c>a</c> element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2718,6 +2931,7 @@
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the child content of the component.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -2728,6 +2942,7 @@
             "Name": "Match",
             "TypeName": "Microsoft.AspNetCore.Components.Routing.NavLinkMatch",
             "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Gets or sets a value representing the URL matching behavior.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Match"
             }
@@ -2739,10 +2954,11 @@
         }
       },
       {
-        "HashCode": 2066409418,
+        "HashCode": -1066662000,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            A component that renders an anchor tag, automatically toggling its 'active'\n            class based on whether its 'href' matches the current URI.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2754,6 +2970,7 @@
             "Kind": "Components.Component",
             "Name": "ActiveClass",
             "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the CSS class name applied to the NavLink when the\n            current route matches the NavLink href.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ActiveClass"
             }
@@ -2762,6 +2979,7 @@
             "Kind": "Components.Component",
             "Name": "AdditionalAttributes",
             "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "\n            <summary>\n            Gets or sets a collection of additional attributes that will be added to the generated\n            <c>a</c> element.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "AdditionalAttributes"
             }
@@ -2770,6 +2988,7 @@
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets the child content of the component.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True"
@@ -2780,6 +2999,7 @@
             "Name": "Match",
             "TypeName": "Microsoft.AspNetCore.Components.Routing.NavLinkMatch",
             "IsEnum": true,
+            "Documentation": "\n            <summary>\n            Gets or sets a value representing the URL matching behavior.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Match"
             }
@@ -2792,10 +3012,11 @@
         }
       },
       {
-        "HashCode": 1686040786,
+        "HashCode": -386477367,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the child content of the component.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2810,10 +3031,11 @@
         }
       },
       {
-        "HashCode": -1513521307,
+        "HashCode": 720148254,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the child content of the component.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2829,10 +3051,11 @@
         }
       },
       {
-        "HashCode": 2034221670,
+        "HashCode": 4186138,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Provides functionality for rendering a virtualized list of items.\n            </summary>\n            <typeparam name=\"TItem\">The <c>context</c> type for the items being rendered.</typeparam>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2847,13 +3070,15 @@
             "Documentation": "Specifies the type of the type parameter TItem for the Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem> component.",
             "Metadata": {
               "Common.PropertyName": "TItem",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<TItem>",
+            "Documentation": "\n            <summary>\n            Gets or sets the item template for the list.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True",
@@ -2864,6 +3089,7 @@
             "Kind": "Components.Component",
             "Name": "ItemContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<TItem>",
+            "Documentation": "\n            <summary>\n            Gets or sets the item template for the list.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ItemContent",
               "Components.ChildContent": "True",
@@ -2874,6 +3100,7 @@
             "Kind": "Components.Component",
             "Name": "Placeholder",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+            "Documentation": "\n            <summary>\n            Gets or sets the template for items that have not yet been loaded in memory.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Placeholder",
               "Components.ChildContent": "True"
@@ -2883,6 +3110,7 @@
             "Kind": "Components.Component",
             "Name": "ItemSize",
             "TypeName": "System.Single",
+            "Documentation": "\n            <summary>\n            Gets the size of each item in pixels. Defaults to 50px.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ItemSize"
             }
@@ -2891,6 +3119,7 @@
             "Kind": "Components.Component",
             "Name": "ItemsProvider",
             "TypeName": "Microsoft.AspNetCore.Components.Web.Virtualization.ItemsProviderDelegate<TItem>",
+            "Documentation": "\n            <summary>\n            Gets or sets the function providing items to the list.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ItemsProvider",
               "Components.DelegateSignature": "True",
@@ -2901,6 +3130,7 @@
             "Kind": "Components.Component",
             "Name": "Items",
             "TypeName": "System.Collections.Generic.ICollection<TItem>",
+            "Documentation": "\n            <summary>\n            Gets or sets the fixed item source.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Items",
               "Components.GenericTyped": "True"
@@ -2910,6 +3140,7 @@
             "Kind": "Components.Component",
             "Name": "OverscanCount",
             "TypeName": "System.Int32",
+            "Documentation": "\n            <summary>\n            Gets or sets a value that determines how many additional items will be rendered\n            before and after the visible region. This help to reduce the frequency of rendering\n            during scrolling. However, higher values mean that more elements will be present\n            in the page.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OverscanCount"
             }
@@ -2932,10 +3163,11 @@
         }
       },
       {
-        "HashCode": 914733591,
+        "HashCode": -103919751,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Provides functionality for rendering a virtualized list of items.\n            </summary>\n            <typeparam name=\"TItem\">The <c>context</c> type for the items being rendered.</typeparam>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -2950,13 +3182,15 @@
             "Documentation": "Specifies the type of the type parameter TItem for the Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem> component.",
             "Metadata": {
               "Common.PropertyName": "TItem",
-              "Components.TypeParameter": "True"
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
             }
           },
           {
             "Kind": "Components.Component",
             "Name": "ChildContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<TItem>",
+            "Documentation": "\n            <summary>\n            Gets or sets the item template for the list.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ChildContent",
               "Components.ChildContent": "True",
@@ -2967,6 +3201,7 @@
             "Kind": "Components.Component",
             "Name": "ItemContent",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<TItem>",
+            "Documentation": "\n            <summary>\n            Gets or sets the item template for the list.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ItemContent",
               "Components.ChildContent": "True",
@@ -2977,6 +3212,7 @@
             "Kind": "Components.Component",
             "Name": "Placeholder",
             "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+            "Documentation": "\n            <summary>\n            Gets or sets the template for items that have not yet been loaded in memory.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Placeholder",
               "Components.ChildContent": "True"
@@ -2986,6 +3222,7 @@
             "Kind": "Components.Component",
             "Name": "ItemSize",
             "TypeName": "System.Single",
+            "Documentation": "\n            <summary>\n            Gets the size of each item in pixels. Defaults to 50px.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ItemSize"
             }
@@ -2994,6 +3231,7 @@
             "Kind": "Components.Component",
             "Name": "ItemsProvider",
             "TypeName": "Microsoft.AspNetCore.Components.Web.Virtualization.ItemsProviderDelegate<TItem>",
+            "Documentation": "\n            <summary>\n            Gets or sets the function providing items to the list.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "ItemsProvider",
               "Components.DelegateSignature": "True",
@@ -3004,6 +3242,7 @@
             "Kind": "Components.Component",
             "Name": "Items",
             "TypeName": "System.Collections.Generic.ICollection<TItem>",
+            "Documentation": "\n            <summary>\n            Gets or sets the fixed item source.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "Items",
               "Components.GenericTyped": "True"
@@ -3013,6 +3252,7 @@
             "Kind": "Components.Component",
             "Name": "OverscanCount",
             "TypeName": "System.Int32",
+            "Documentation": "\n            <summary>\n            Gets or sets a value that determines how many additional items will be rendered\n            before and after the visible region. This help to reduce the frequency of rendering\n            during scrolling. However, higher values mean that more elements will be present\n            in the page.\n            </summary>\n        ",
             "Metadata": {
               "Common.PropertyName": "OverscanCount"
             }
@@ -3036,10 +3276,11 @@
         }
       },
       {
-        "HashCode": -631840884,
+        "HashCode": -1321560795,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the item template for the list.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -3066,10 +3307,11 @@
         }
       },
       {
-        "HashCode": -1268004777,
+        "HashCode": 463600014,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the item template for the list.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -3097,10 +3339,11 @@
         }
       },
       {
-        "HashCode": -1564926274,
+        "HashCode": -179339345,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the item template for the list.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -3127,10 +3370,11 @@
         }
       },
       {
-        "HashCode": -1417177073,
+        "HashCode": -1289654327,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the item template for the list.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -3158,10 +3402,11 @@
         }
       },
       {
-        "HashCode": -739015914,
+        "HashCode": -1788259050,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the template for items that have not yet been loaded in memory.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -3188,10 +3433,11 @@
         }
       },
       {
-        "HashCode": 558635551,
+        "HashCode": 74259640,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
+        "Documentation": "\n            <summary>\n            Gets or sets the template for items that have not yet been loaded in memory.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -3219,7 +3465,7 @@
         }
       },
       {
-        "HashCode": 2133201149,
+        "HashCode": 186592043,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3300,7 +3546,7 @@
         }
       },
       {
-        "HashCode": 167168875,
+        "HashCode": -1655639245,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3381,7 +3627,7 @@
         }
       },
       {
-        "HashCode": 1198535796,
+        "HashCode": -1121151949,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3462,7 +3708,7 @@
         }
       },
       {
-        "HashCode": -1723055497,
+        "HashCode": -1979636908,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3543,7 +3789,7 @@
         }
       },
       {
-        "HashCode": 390363260,
+        "HashCode": -1905724443,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3624,7 +3870,7 @@
         }
       },
       {
-        "HashCode": 975488152,
+        "HashCode": -892848959,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3705,7 +3951,7 @@
         }
       },
       {
-        "HashCode": 1446407728,
+        "HashCode": 1446718439,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3786,7 +4032,7 @@
         }
       },
       {
-        "HashCode": -1357152596,
+        "HashCode": -1588424014,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3867,7 +4113,7 @@
         }
       },
       {
-        "HashCode": -2068195826,
+        "HashCode": 868747197,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -3948,7 +4194,7 @@
         }
       },
       {
-        "HashCode": 313240201,
+        "HashCode": 787426028,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4029,7 +4275,7 @@
         }
       },
       {
-        "HashCode": -59738011,
+        "HashCode": 1313643291,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4110,7 +4356,7 @@
         }
       },
       {
-        "HashCode": 420043953,
+        "HashCode": -1902757884,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4191,7 +4437,7 @@
         }
       },
       {
-        "HashCode": 642302611,
+        "HashCode": -1878369800,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4272,7 +4518,7 @@
         }
       },
       {
-        "HashCode": 901253668,
+        "HashCode": 442055878,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4353,7 +4599,7 @@
         }
       },
       {
-        "HashCode": -1909451877,
+        "HashCode": 1472062986,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4434,7 +4680,7 @@
         }
       },
       {
-        "HashCode": 78208705,
+        "HashCode": 210482135,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4515,7 +4761,7 @@
         }
       },
       {
-        "HashCode": -196294007,
+        "HashCode": -1450766640,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4596,7 +4842,7 @@
         }
       },
       {
-        "HashCode": -837534509,
+        "HashCode": -1747362364,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4677,7 +4923,7 @@
         }
       },
       {
-        "HashCode": 59769185,
+        "HashCode": 169165660,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4758,7 +5004,7 @@
         }
       },
       {
-        "HashCode": 2095823415,
+        "HashCode": -745044341,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4839,7 +5085,7 @@
         }
       },
       {
-        "HashCode": -746963065,
+        "HashCode": 1139402182,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4920,7 +5166,7 @@
         }
       },
       {
-        "HashCode": -717711135,
+        "HashCode": 976705603,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5001,7 +5247,7 @@
         }
       },
       {
-        "HashCode": -1887678544,
+        "HashCode": 593278123,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5082,7 +5328,7 @@
         }
       },
       {
-        "HashCode": 607283648,
+        "HashCode": -1388389237,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5163,7 +5409,7 @@
         }
       },
       {
-        "HashCode": 683372111,
+        "HashCode": -821980582,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5244,7 +5490,7 @@
         }
       },
       {
-        "HashCode": 1764053793,
+        "HashCode": 1295922993,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5325,7 +5571,7 @@
         }
       },
       {
-        "HashCode": -252975011,
+        "HashCode": 240224611,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5406,7 +5652,7 @@
         }
       },
       {
-        "HashCode": 1881749271,
+        "HashCode": 1961592489,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5487,7 +5733,7 @@
         }
       },
       {
-        "HashCode": 723212908,
+        "HashCode": -1723223064,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5568,7 +5814,7 @@
         }
       },
       {
-        "HashCode": 774183857,
+        "HashCode": -335010394,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5649,7 +5895,7 @@
         }
       },
       {
-        "HashCode": 1798921474,
+        "HashCode": -1490632599,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5730,7 +5976,7 @@
         }
       },
       {
-        "HashCode": 762850264,
+        "HashCode": 906527888,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5811,7 +6057,7 @@
         }
       },
       {
-        "HashCode": 340356547,
+        "HashCode": -502713351,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5892,7 +6138,7 @@
         }
       },
       {
-        "HashCode": 1151591938,
+        "HashCode": -955657122,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5973,7 +6219,7 @@
         }
       },
       {
-        "HashCode": -1456416150,
+        "HashCode": 1907747834,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6054,7 +6300,7 @@
         }
       },
       {
-        "HashCode": 38342102,
+        "HashCode": -411851640,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6135,7 +6381,7 @@
         }
       },
       {
-        "HashCode": -1828940249,
+        "HashCode": 1392332545,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6216,7 +6462,7 @@
         }
       },
       {
-        "HashCode": -199408810,
+        "HashCode": 578549584,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6297,7 +6543,7 @@
         }
       },
       {
-        "HashCode": 570699508,
+        "HashCode": -537730330,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6378,7 +6624,7 @@
         }
       },
       {
-        "HashCode": -459375109,
+        "HashCode": 2104360724,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6459,7 +6705,7 @@
         }
       },
       {
-        "HashCode": -830690705,
+        "HashCode": 1358171059,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6540,7 +6786,7 @@
         }
       },
       {
-        "HashCode": 995703595,
+        "HashCode": 974592162,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6621,7 +6867,7 @@
         }
       },
       {
-        "HashCode": -782195052,
+        "HashCode": -1364108548,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6702,7 +6948,7 @@
         }
       },
       {
-        "HashCode": -1864235589,
+        "HashCode": -1526526883,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6783,7 +7029,7 @@
         }
       },
       {
-        "HashCode": -1360602316,
+        "HashCode": 304086471,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6864,7 +7110,7 @@
         }
       },
       {
-        "HashCode": 344195546,
+        "HashCode": 862188923,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6945,7 +7191,7 @@
         }
       },
       {
-        "HashCode": 1082344211,
+        "HashCode": 431891662,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7026,7 +7272,7 @@
         }
       },
       {
-        "HashCode": 873311076,
+        "HashCode": -1435287063,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7107,7 +7353,7 @@
         }
       },
       {
-        "HashCode": 1856290898,
+        "HashCode": 2047867003,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7188,7 +7434,7 @@
         }
       },
       {
-        "HashCode": -1542424916,
+        "HashCode": -1669894437,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7269,7 +7515,7 @@
         }
       },
       {
-        "HashCode": -1200701125,
+        "HashCode": 105655141,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7350,7 +7596,7 @@
         }
       },
       {
-        "HashCode": 1209893484,
+        "HashCode": -54689486,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7431,7 +7677,7 @@
         }
       },
       {
-        "HashCode": 1827616163,
+        "HashCode": -1805960553,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7512,7 +7758,7 @@
         }
       },
       {
-        "HashCode": -1206395063,
+        "HashCode": 1284792013,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7593,7 +7839,7 @@
         }
       },
       {
-        "HashCode": -135639205,
+        "HashCode": -337109147,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7674,7 +7920,7 @@
         }
       },
       {
-        "HashCode": -1902920004,
+        "HashCode": 1137904826,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7755,7 +8001,7 @@
         }
       },
       {
-        "HashCode": -1483604146,
+        "HashCode": -868689525,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7836,7 +8082,7 @@
         }
       },
       {
-        "HashCode": -145045267,
+        "HashCode": -1004520427,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7917,7 +8163,7 @@
         }
       },
       {
-        "HashCode": -1362768929,
+        "HashCode": 1620358731,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7998,7 +8244,7 @@
         }
       },
       {
-        "HashCode": -1936229409,
+        "HashCode": -472682042,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8079,7 +8325,7 @@
         }
       },
       {
-        "HashCode": -2120264642,
+        "HashCode": 1774201348,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8160,7 +8406,7 @@
         }
       },
       {
-        "HashCode": -1664796659,
+        "HashCode": -2007368528,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8241,7 +8487,7 @@
         }
       },
       {
-        "HashCode": -1321159735,
+        "HashCode": 1184999635,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8322,7 +8568,7 @@
         }
       },
       {
-        "HashCode": -149728110,
+        "HashCode": 764619040,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8403,7 +8649,7 @@
         }
       },
       {
-        "HashCode": -944653272,
+        "HashCode": 859214160,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8484,7 +8730,7 @@
         }
       },
       {
-        "HashCode": 671838416,
+        "HashCode": -1801158310,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8565,7 +8811,7 @@
         }
       },
       {
-        "HashCode": 2023405188,
+        "HashCode": -353765892,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8646,7 +8892,7 @@
         }
       },
       {
-        "HashCode": -388907572,
+        "HashCode": 1950188589,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8727,7 +8973,7 @@
         }
       },
       {
-        "HashCode": 446936610,
+        "HashCode": -216696633,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8808,7 +9054,7 @@
         }
       },
       {
-        "HashCode": -831362509,
+        "HashCode": -1890949290,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8889,7 +9135,7 @@
         }
       },
       {
-        "HashCode": -685876499,
+        "HashCode": 1544053299,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8970,7 +9216,7 @@
         }
       },
       {
-        "HashCode": -789065672,
+        "HashCode": -2076119368,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9051,7 +9297,7 @@
         }
       },
       {
-        "HashCode": 1982131930,
+        "HashCode": -734285010,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9132,7 +9378,7 @@
         }
       },
       {
-        "HashCode": -1050760653,
+        "HashCode": -1391952131,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9213,7 +9459,7 @@
         }
       },
       {
-        "HashCode": 838163318,
+        "HashCode": -324657617,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9294,7 +9540,7 @@
         }
       },
       {
-        "HashCode": -1560023379,
+        "HashCode": -173838871,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9375,7 +9621,7 @@
         }
       },
       {
-        "HashCode": -1592984195,
+        "HashCode": -341682906,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9456,7 +9702,7 @@
         }
       },
       {
-        "HashCode": 1753411582,
+        "HashCode": 1604151266,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9537,7 +9783,7 @@
         }
       },
       {
-        "HashCode": 1069684344,
+        "HashCode": 1623512693,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9618,7 +9864,7 @@
         }
       },
       {
-        "HashCode": -1302803355,
+        "HashCode": -1714354502,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9699,7 +9945,7 @@
         }
       },
       {
-        "HashCode": 2078935349,
+        "HashCode": 775998936,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9780,7 +10026,7 @@
         }
       },
       {
-        "HashCode": -67185499,
+        "HashCode": 2102367221,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9861,7 +10107,7 @@
         }
       },
       {
-        "HashCode": -247333477,
+        "HashCode": 1987822902,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9942,7 +10188,7 @@
         }
       },
       {
-        "HashCode": -1006070517,
+        "HashCode": 1485114574,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10023,7 +10269,7 @@
         }
       },
       {
-        "HashCode": 957041472,
+        "HashCode": -2003801423,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10104,7 +10350,7 @@
         }
       },
       {
-        "HashCode": -54184650,
+        "HashCode": -384664444,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10185,7 +10431,7 @@
         }
       },
       {
-        "HashCode": -2019471684,
+        "HashCode": 410701632,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10266,7 +10512,7 @@
         }
       },
       {
-        "HashCode": -185617271,
+        "HashCode": -1911062033,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10347,7 +10593,7 @@
         }
       },
       {
-        "HashCode": -1791882691,
+        "HashCode": 1391094284,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10428,7 +10674,7 @@
         }
       },
       {
-        "HashCode": 373414256,
+        "HashCode": -1058189993,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10509,7 +10755,7 @@
         }
       },
       {
-        "HashCode": -693681880,
+        "HashCode": 85037801,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10590,7 +10836,7 @@
         }
       },
       {
-        "HashCode": -482689151,
+        "HashCode": 2025965901,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10671,7 +10917,7 @@
         }
       },
       {
-        "HashCode": 972340475,
+        "HashCode": -1183855237,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10710,7 +10956,7 @@
         }
       },
       {
-        "HashCode": 899238057,
+        "HashCode": 141407075,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10779,7 +11025,7 @@
         }
       },
       {
-        "HashCode": 2122628386,
+        "HashCode": 1135165520,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10857,7 +11103,7 @@
         }
       },
       {
-        "HashCode": 1621065071,
+        "HashCode": -1432910606,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10935,7 +11181,7 @@
         }
       },
       {
-        "HashCode": -806598123,
+        "HashCode": -168823864,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11019,7 +11265,7 @@
         }
       },
       {
-        "HashCode": 1485551880,
+        "HashCode": -424622683,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11103,7 +11349,7 @@
         }
       },
       {
-        "HashCode": 646980565,
+        "HashCode": -1632586745,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11187,7 +11433,7 @@
         }
       },
       {
-        "HashCode": -498409182,
+        "HashCode": 1603119386,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11271,7 +11517,7 @@
         }
       },
       {
-        "HashCode": 2072756337,
+        "HashCode": 1617849760,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11355,7 +11601,7 @@
         }
       },
       {
-        "HashCode": 330885602,
+        "HashCode": 1032959981,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11439,7 +11685,7 @@
         }
       },
       {
-        "HashCode": -34757060,
+        "HashCode": 272177428,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11523,7 +11769,7 @@
         }
       },
       {
-        "HashCode": -296197888,
+        "HashCode": 1301266069,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11607,7 +11853,7 @@
         }
       },
       {
-        "HashCode": -458201023,
+        "HashCode": 1494465513,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11691,7 +11937,7 @@
         }
       },
       {
-        "HashCode": 1506295786,
+        "HashCode": 1191265366,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11775,7 +12021,7 @@
         }
       },
       {
-        "HashCode": -598817022,
+        "HashCode": -676580572,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11859,7 +12105,7 @@
         }
       },
       {
-        "HashCode": -401614720,
+        "HashCode": -1475182035,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11943,7 +12189,7 @@
         }
       },
       {
-        "HashCode": -1619008684,
+        "HashCode": 590119871,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12021,7 +12267,7 @@
         }
       },
       {
-        "HashCode": 238684204,
+        "HashCode": 1579814920,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12099,7 +12345,7 @@
         }
       },
       {
-        "HashCode": 931774755,
+        "HashCode": 1962586894,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12140,7 +12386,7 @@
         }
       },
       {
-        "HashCode": -350866415,
+        "HashCode": -1399675068,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12182,7 +12428,7 @@
         }
       },
       {
-        "HashCode": 464728941,
+        "HashCode": -1097895423,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12223,7 +12469,7 @@
         }
       },
       {
-        "HashCode": -886689320,
+        "HashCode": 1762180549,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12265,7 +12511,7 @@
         }
       },
       {
-        "HashCode": 128870257,
+        "HashCode": 503994948,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12306,7 +12552,7 @@
         }
       },
       {
-        "HashCode": -2091079492,
+        "HashCode": 1867010193,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12348,7 +12594,7 @@
         }
       },
       {
-        "HashCode": 1801403257,
+        "HashCode": 1900368744,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12389,7 +12635,7 @@
         }
       },
       {
-        "HashCode": -1989065662,
+        "HashCode": 955767402,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12431,7 +12677,7 @@
         }
       },
       {
-        "HashCode": -740895083,
+        "HashCode": 1900299773,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12472,7 +12718,7 @@
         }
       },
       {
-        "HashCode": 1258210574,
+        "HashCode": 150911277,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12514,7 +12760,7 @@
         }
       },
       {
-        "HashCode": -1021209565,
+        "HashCode": -1172267626,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12555,7 +12801,7 @@
         }
       },
       {
-        "HashCode": -396711621,
+        "HashCode": 2043668605,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12597,7 +12843,7 @@
         }
       },
       {
-        "HashCode": -693812655,
+        "HashCode": 736565861,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12638,7 +12884,7 @@
         }
       },
       {
-        "HashCode": -1658305119,
+        "HashCode": 1916311747,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -12680,7 +12926,7 @@
         }
       },
       {
-        "HashCode": -1192035537,
+        "HashCode": -285528496,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12719,7 +12965,7 @@
         }
       },
       {
-        "HashCode": 192826806,
+        "HashCode": -406693614,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12763,43 +13009,43 @@
   "RootNamespace": "MarvelSearch",
   "Documents": [
     {
-      "FilePath": "/workspaces/MarvelSearch/Shared/NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/workspaces/MarvelSearch/Pages/FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/workspaces/MarvelSearch/Shared/MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/workspaces/MarvelSearch/App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/workspaces/MarvelSearch/Pages/Index.razor",
+      "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/workspaces/MarvelSearch/_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
+      "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
     },
     {
-      "FilePath": "/workspaces/MarvelSearch/Pages/Counter.razor",
+      "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/workspaces/MarvelSearch/Shared/SurveyPrompt.razor",
+      "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\HDD\\Projects\\Dotnet\\learning\\MarvelSearch\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     }
   ],
